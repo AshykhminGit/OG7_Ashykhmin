@@ -1,4 +1,4 @@
 # Test git
 
 print ("Hello")
-input("")
+print ("Hello 1")
