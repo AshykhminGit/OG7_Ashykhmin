@@ -1,6 +1,6 @@
 
 print ("Concatenate it!")
-# c отдельной переменной под пробел
+# c отдельной переменной под пробел 1
 a1 = str("Apples")
 a2 = str("babanas")
 a3 =str(" ")
