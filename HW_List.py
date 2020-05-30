@@ -1,5 +1,5 @@
 
 a = int (input("введите целое число макс значение в списке:"))#
 b = int (input("введите целое число  количество элементов  в списке:"))#
-list = [a for i in range( b)]
+list = [i for i in range(0, b)]
 print (list)
