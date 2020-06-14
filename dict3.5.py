@@ -1,5 +1,5 @@
 
-print("dictionaries ")
+print("dictionaries  hero and his body weight")
 mans = {
  'shvarz': 120,
  'RAMBO': 100,
